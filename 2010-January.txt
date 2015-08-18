@@ -1,0 +1,25 @@
+From jhamel at cyrus-computer.de  Wed Jan  6 10:26:15 2010
+From: jhamel at cyrus-computer.de (=?UTF-8?B?SsO8cmdlbg==?= Hamel)
+Date: Wed, 6 Jan 2010 10:26:15 +0100
+Subject: [Py3dworlds-dev] Starting the project
+Message-ID: <20100106102615.091baf89@station2.localdomain>
+
+Hello, 
+py3d-worlds is a project to setup the server for a 3D world like
+"SecondLife" or "opensimulator" it is under the terms of the GLP v3.
+
+bye
+Juergen
+
+-- 
+Cyrus-Computer GmbH Linux Server Support J?rgen Hamel
+Cuon - Warenwirtschaft mit Linux  http://www.cuon.org
+Twitter: cuonOne    Jabber: jhamel at cuonsim2.de
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 198 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/py3dworlds-dev/attachments/20100106/3d496fc2/attachment.pgp>
+
